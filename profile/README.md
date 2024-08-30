@@ -20,4 +20,4 @@
 [https://open.kakao.com/o/gd5mx3E](https://open.kakao.com/o/gd5mx3E)
 
 규칙:
-[https://gosuda.github.io/](https://gosuda.github.io/)
+[https://rules.gosuda.org/](https://rules.gosuda.org/)
