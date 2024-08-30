@@ -1,4 +1,4 @@
-# Go 언어 개발자들의 수다: Go수다
+# Go수다
 
 [![gosuda](https://github.com/user-attachments/assets/a1be1175-6844-46d8-ad07-fa44aaec731b)](https://open.kakao.com/o/gd5mx3E)
 
