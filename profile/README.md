@@ -20,4 +20,7 @@
 [https://open.kakao.com/o/gd5mx3E](https://open.kakao.com/o/gd5mx3E)
 
 규칙:
-[https://rules.gosuda.org/](https://rules.gosuda.org/)
+[rules.gosuda.org](https://rules.gosuda.org/)
+
+블로그:
+[gosuda.org](https://gosuda.org/)
