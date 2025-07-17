@@ -9,11 +9,8 @@
 커뮤니티 관리자는 커뮤니티의 환경을 유지하기 위해 노력하고 있습니다. 문의사항이나 불편한 점이 있을 경우 언제든지 연락해 주세요.
 
 * 총괄자: [방장아님](https://open.kakao.com/o/s2KfcDO)
-* 관리자: [헬프(HellP)](https://open.kakao.com/me/HellP)
 * 관리자: [아Zig초보](https://open.kakao.com/me/zig82)
-* 관리자: [JY/Backend](https://open.kakao.com/o/s3vWoNOg)
 * 관리자: [Doge](https://open.kakao.com/o/sfqE4yOc)
-* 관리자: [phs](https://open.kakao.com/me/feelsong)
 * 관리자: [snowmerak](https://open.kakao.com/me/snowmerak)
 
 ## 채팅방
