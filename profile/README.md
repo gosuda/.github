@@ -13,6 +13,8 @@ If you have any questions or concerns, feel free to reach out anytime.
 - **Admin:** [lemon-mint](https://open.kakao.com/me/zig82)  
 - **Admin:** [iwanhae](https://open.kakao.com/o/sfqE4yOc)  
 - **Admin:** [snowmerak](https://open.kakao.com/me/snowmerak)
+- **Admin:** [rabbitson87](https://github.com/rabbitson87)
+- **Admin:** [thunbgo](https://github.com/yoonhyunwoo)
 
 ## Community
 
