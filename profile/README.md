@@ -15,6 +15,7 @@ If you have any questions or concerns, feel free to reach out anytime.
 - **Admin:** [snowmerak](https://open.kakao.com/me/snowmerak)
 - **Admin:** [rabbitson87](https://github.com/rabbitson87)
 - **Admin:** [thumbgo](https://github.com/yoonhyunwoo)
+- **Admin:** [cognitive](https://github.com/orgs/gosuda/people/metaphorics)
 
 ## Community
 
