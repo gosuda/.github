@@ -23,3 +23,4 @@ If you have any questions or concerns, feel free to reach out anytime.
 - **Community Guidelines:** [rules.gosuda.org](https://rules.gosuda.org/)
 - **Official Blog:** [gosuda.org](https://gosuda.org/)
 - **Reddit Community:** [r/gosuda](https://www.reddit.com/r/gosuda/)
+- **Discord:** [discord](https://discord.gg/SxSXVkp9JB)
