@@ -9,10 +9,9 @@
 Our admins help keep the community welcoming, organized, and running smoothly.  
 If you have any questions or concerns, feel free to reach out anytime.
 
-- **Organizer:** [gosunuts](https://open.kakao.com/o/s2KfcDO)  
-- **Admin:** [lemon-mint](https://open.kakao.com/me/zig82)  
-- **Admin:** [iwanhae](https://open.kakao.com/o/sfqE4yOc)  
-- **Admin:** [snowmerak](https://open.kakao.com/me/snowmerak)
+- **Organizer:** [gosunuts](https://github.com/gosunuts)
+- **Admin:** [lemon-mint](https://github.com/lemon-mint)
+- **Admin:** [iwanhae](https://github.com/iwanhae)
 - **Admin:** [rabbitson87](https://github.com/rabbitson87)
 - **Admin:** [thumbgo](https://github.com/yoonhyunwoo)
 - **Admin:** [cognitive](https://github.com/metaphorics)
