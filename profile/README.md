@@ -2,7 +2,7 @@
 
 [![gosuda](https://github.com/user-attachments/assets/a1be1175-6844-46d8-ad07-fa44aaec731b)](https://open.kakao.com/o/gd5mx3E)
 
-**An open community for Go developers — sharing knowledge, building together, and having fun.**
+**An open community for people who love building things — sharing ideas, creating together, and having fun.**
 
 ## Administrators
 
