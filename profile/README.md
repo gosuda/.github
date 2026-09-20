@@ -14,7 +14,7 @@ If you have any questions or concerns, feel free to reach out anytime.
 - **Admin:** [iwanhae](https://github.com/iwanhae)
 - **Admin:** [rabbitson87](https://github.com/rabbitson87)
 - **Admin:** [thumbgo](https://github.com/yoonhyunwoo)
-- **Admin:** [cognitive](https://github.com/metaphorics)
+- **Admin:** [metaphorics](https://github.com/metaphorics)
 
 ## Community
 
