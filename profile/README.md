@@ -24,6 +24,8 @@ If you have any questions or concerns, feel free to reach out anytime.
 - **Reddit Community:** [r/gosuda](https://www.reddit.com/r/gosuda/)
 - **Discord:** [discord](https://discord.gg/SxSXVkp9JB)
 
+
 ---
 
-[![Building with Depot](https://depot.dev/badges/built-with-depot.svg)](https://depot.dev?utm_source=gosuda)
+
+[![Built with Depot](https://depot.dev/badges/built-with-depot.svg)](https://depot.dev?utm_source=gosuda)
