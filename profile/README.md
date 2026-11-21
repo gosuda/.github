@@ -6,7 +6,15 @@
 
 ## Projects
 
-**Featured:** [bitcoin-rs](https://github.com/gosuda/bitcoin-rs) · [portal-tunnel](https://github.com/gosuda/portal-tunnel) · [LoGOs](https://github.com/gosuda/LoGOs) · [spira](https://github.com/gosuda/spira) · [gglint](https://github.com/gosuda/gglint) · [IVNP](https://github.com/gosuda/IVNP) · [sloplint](https://github.com/gosuda/sloplint) · [dstack-skills](https://github.com/gosuda/dstack-skills)
+**Featured:**
+- [bitcoin-rs](https://github.com/gosuda/bitcoin-rs)
+- [portal-tunnel](https://github.com/gosuda/portal-tunnel) 
+- [LoGOs](https://github.com/gosuda/LoGOs)
+- [spira](https://github.com/gosuda/spira)
+- [gglint](https://github.com/gosuda/gglint)
+- [IVNP](https://github.com/gosuda/IVNP)
+- [sloplint](https://github.com/gosuda/sloplint)
+- [dstack-skills](https://github.com/gosuda/dstack-skills)
 
 The index below covers active public repositories. For everything else, see the [full repository list](https://github.com/orgs/gosuda/repositories).
 
