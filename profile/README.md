@@ -4,17 +4,7 @@
 
 **An open community for people who love building things — sharing ideas, creating together, and having fun.**
 
-## Community
-
-- **Chat Room:**  [open.kakao.com/o/gd5mx3E](https://open.kakao.com/o/gd5mx3E)
-- **Community Guidelines:** [rules.gosuda.org](https://rules.gosuda.org/)
-- **Official Blog:** [gosuda.org](https://gosuda.org/)
-- **Reddit Community:** [r/gosuda](https://www.reddit.com/r/gosuda/)
-- **Discord:** [discord](https://discord.gg/SxSXVkp9JB)
-
-## Projects
-
-**Featured:**
+**Our Featured Projects:**
 - [bitcoin-rs](https://github.com/gosuda/bitcoin-rs)
 - [portal-tunnel](https://github.com/gosuda/portal-tunnel) 
 - [LoGOs](https://github.com/gosuda/LoGOs)
@@ -23,6 +13,16 @@
 - [IVNP](https://github.com/gosuda/IVNP)
 - [sloplint](https://github.com/gosuda/sloplint)
 - [dstack-skills](https://github.com/gosuda/dstack-skills)
+
+## Community
+
+- **Chat Room:**  [open.kakao.com/o/gd5mx3E](https://open.kakao.com/o/gd5mx3E)
+- **Community Guidelines:** [rules.gosuda.org](https://rules.gosuda.org/)
+- **Official Blog:** [gosuda.org](https://gosuda.org/)
+- **Reddit Community:** [r/gosuda](https://www.reddit.com/r/gosuda/)
+- **Discord:** [discord](https://discord.gg/SxSXVkp9JB)
+
+## Projects Index
 
 The index below covers active public repositories. For everything else, see the [full repository list](https://github.com/orgs/gosuda/repositories).
 
