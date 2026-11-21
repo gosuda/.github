@@ -5,14 +5,15 @@
 **An open community for people who love building things — sharing ideas, creating together, and having fun.**
 
 **Our Featured Projects:**
-- [bitcoin-rs](https://github.com/gosuda/bitcoin-rs)
-- [portal-tunnel](https://github.com/gosuda/portal-tunnel) 
-- [LoGOs](https://github.com/gosuda/LoGOs)
-- [spira](https://github.com/gosuda/spira)
-- [gglint](https://github.com/gosuda/gglint)
-- [IVNP](https://github.com/gosuda/IVNP)
-- [sloplint](https://github.com/gosuda/sloplint)
-- [dstack-skills](https://github.com/gosuda/dstack-skills)
+- [bitcoin-rs](https://github.com/gosuda/bitcoin-rs): Independent bitcoin full node in Rust
+- [portal-tunnel](https://github.com/gosuda/portal-tunnel): Publish localhost services to the agentic web through self-hostable, trustless relays
+- [LoGOs](https://github.com/gosuda/LoGOs): The LoGOs programming language: Go, elegantly done right
+- [spira](https://github.com/gosuda/spira): The Spring web framework done right, in LoGOs
+- [gglint](https://github.com/gosuda/gglint): The Go linter, finally done right
+- [flats](https://github.com/gosuda/flats): Sites and artifacts hosting alternative
+- [IVNP](https://github.com/gosuda/IVNP): InVisible Network Protocol: Go implementation of the I2P protocol and router
+- [sloplint](https://github.com/gosuda/sloplint): Anti-slop (slop comes from both humans and agents) linter for complexity, searchable code, and agent editability across all major languages
+- [dstack-skills](https://github.com/gosuda/dstack-skills): Opinionated Agent skills for agentic engineering (never vibe coding)
 
 ## Community
 
@@ -58,7 +59,7 @@ The index below covers active public repositories. For everything else, see the 
 | Project | What it is |
 |---|---|
 | [LoGOs](https://github.com/gosuda/LoGOs) | The LoGOs programming language: Go, elegantly done right |
-| [spira](https://github.com/gosuda/spira) | The Spring web framework done right, in TypeScript |
+| [spira](https://github.com/gosuda/spira) | The Spring web framework done right, in LoGOs |
 | [bamTiScript](https://github.com/gosuda/bamTiScript) | Clean-room TypeScript 7.0.2 compiler and JavaScript runtime in Rust, with JIT/AOT and Lean 4 models |
 | [elegant-mermaid](https://github.com/gosuda/elegant-mermaid) | Render, check, and lint Mermaid diagrams without a browser; CLI plus Go, Rust, and Node libraries |
 | [Charamel](https://github.com/gosuda/Charamel) | The Charm terminal ecosystem re-derived in pure OCaml: sixteen libraries, ten tools |
@@ -94,7 +95,7 @@ The index below covers active public repositories. For everything else, see the 
 | [portal-toys](https://github.com/gosuda/portal-toys) | Toy projects built on portal |
 | [portal-x402-sdk](https://github.com/gosuda/portal-x402-sdk) | TypeScript SDK wrapping x402 payment, ERC-8004 identity, and ENSIP-25 verification for portal relays |
 | [portalite](https://github.com/gosuda/portalite) | Lightweight portal client |
-| [potly](https://github.com/gosuda/potly) | Short links, QR codes, and file sharing for multi-agent, multi-machine workflows |
+| [potly](https://github.com/gosuda/potly) | Short links, QR codes, and le fisharing for multi-agent, multi-machine workflows |
 | [IVNP](https://github.com/gosuda/IVNP) | InVisible Network Protocol: Go implementation of the I2P protocol and router |
 | [AutoIRC2P](https://github.com/gosuda/AutoIRC2P) | IRC2P chat with optional auto-translation and a built-in I2P router |
 | [BiBeam](https://github.com/gosuda/BiBeam) | Collaborative, distributed, end-to-end P2P VPN in Rust |
