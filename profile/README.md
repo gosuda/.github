@@ -4,7 +4,7 @@
 
 ---
 
-### Featured Projects
+## Featured Projects
 - [bitcoin-rs](https://github.com/gosuda/bitcoin-rs): Independent bitcoin full node in Rust
 - [portal-tunnel](https://github.com/gosuda/portal-tunnel): Publish localhost services to the agentic web through self-hostable, trustless relays
 - [LoGOs](https://github.com/gosuda/LoGOs): The LoGOs programming language: Go, elegantly done right
@@ -107,7 +107,6 @@ The index below covers active public repositories. For everything else, see the 
 | [IVNP](https://github.com/gosuda/IVNP) | InVisible Network Protocol: Go implementation of the I2P protocol and router |
 | [AutoIRC2P](https://github.com/gosuda/AutoIRC2P) | IRC2P chat with optional auto-translation and a built-in I2P router |
 | [BiBeam](https://github.com/gosuda/BiBeam) | Collaborative, distributed, end-to-end P2P VPN in Rust |
-| [jailscale](https://github.com/gosuda/jailscale) | Expose a local port over HTTPS: one wildcard hub, nodes that terminate TLS themselves |
 | [maek](https://github.com/gosuda/maek) | Expose private web services to anyone without port forwarding, in one command |
 | [ssh-chat](https://github.com/gosuda/ssh-chat) | Chat over SSH |
 | [zeroproxy](https://github.com/gosuda/zeroproxy) | Web-based, zero-knowledge, zero-installation proxy in Rust |
