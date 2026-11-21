@@ -4,6 +4,14 @@
 
 **An open community for people who love building things — sharing ideas, creating together, and having fun.**
 
+## Community
+
+- **Chat Room:**  [open.kakao.com/o/gd5mx3E](https://open.kakao.com/o/gd5mx3E)
+- **Community Guidelines:** [rules.gosuda.org](https://rules.gosuda.org/)
+- **Official Blog:** [gosuda.org](https://gosuda.org/)
+- **Reddit Community:** [r/gosuda](https://www.reddit.com/r/gosuda/)
+- **Discord:** [discord](https://discord.gg/SxSXVkp9JB)
+
 ## Projects
 
 **Featured:**
@@ -35,28 +43,6 @@ The index below covers active public repositories. For everything else, see the 
 | [JustGoodPractices](https://github.com/gosuda/JustGoodPractices) | Provider-neutral agent skills pack and Go analyzer distilled from 147 engineering lessons |
 | [micke](https://github.com/gosuda/micke) | Disposable Linux desktop (Xvfb + XFCE + chromium over noVNC) for AI agents, driven over MCP |
 | [pi-oxidized](https://github.com/gosuda/pi-oxidized) | Rust coding agent with TypeScript plugin compatibility |
-
-### Portal and networking
-
-| Project | What it is |
-|---|---|
-| [portal-tunnel](https://github.com/gosuda/portal-tunnel) | Publish localhost services to the agentic web through self-hostable, trustless relays |
-| [portal-android-sdk](https://github.com/gosuda/portal-android-sdk) | Android (Kotlin) SDK for portal-tunnel |
-| [portal-expose](https://github.com/gosuda/portal-expose) | Kubernetes controller that exposes pods to the Portal network |
-| [portal-flutter-sdk](https://github.com/gosuda/portal-flutter-sdk) | Flutter SDK for portal-tunnel |
-| [portal-ios-sdk](https://github.com/gosuda/portal-ios-sdk) | iOS (Swift) SDK for portal-tunnel |
-| [portal-multiplatform-sdk](https://github.com/gosuda/portal-multiplatform-sdk) | Kotlin Multiplatform SDK exposing app-local servers through Portal relays |
-| [portal-toys](https://github.com/gosuda/portal-toys) | Toy projects built on portal |
-| [portal-x402-sdk](https://github.com/gosuda/portal-x402-sdk) | TypeScript SDK wrapping x402 payment, ERC-8004 identity, and ENSIP-25 verification for portal relays |
-| [portalite](https://github.com/gosuda/portalite) | Lightweight portal client |
-| [potly](https://github.com/gosuda/potly) | Short links, QR codes, and file sharing for multi-agent, multi-machine workflows |
-| [IVNP](https://github.com/gosuda/IVNP) | InVisible Network Protocol: Go implementation of the I2P protocol and router |
-| [AutoIRC2P](https://github.com/gosuda/AutoIRC2P) | IRC2P chat with optional auto-translation and a built-in I2P router |
-| [BiBeam](https://github.com/gosuda/BiBeam) | Collaborative, distributed, end-to-end P2P VPN in Rust |
-| [jailscale](https://github.com/gosuda/jailscale) | Expose a local port over HTTPS: one wildcard hub, nodes that terminate TLS themselves |
-| [maek](https://github.com/gosuda/maek) | Expose private web services to anyone without port forwarding, in one command |
-| [ssh-chat](https://github.com/gosuda/ssh-chat) | Chat over SSH |
-| [zeroproxy](https://github.com/gosuda/zeroproxy) | Web-based, zero-knowledge, zero-installation proxy in Rust |
 
 ### Bitcoin and payments
 
@@ -94,6 +80,28 @@ The index below covers active public repositories. For everything else, see the 
 | [gosuda-template-rust](https://github.com/gosuda/gosuda-template-rust) | Official AI-native Rust template for gosuda repositories |
 | [robust-rs-template](https://github.com/gosuda/robust-rs-template) | Robust Rust project template |
 | [t1-faker.vim](https://github.com/gosuda/t1-faker.vim) | Vim colorscheme inspired by T1 team colors |
+
+### P2P and networking
+
+| Project | What it is |
+|---|---|
+| [portal-tunnel](https://github.com/gosuda/portal-tunnel) | Publish localhost services to the agentic web through self-hostable, trustless relays |
+| [portal-android-sdk](https://github.com/gosuda/portal-android-sdk) | Android (Kotlin) SDK for portal-tunnel |
+| [portal-expose](https://github.com/gosuda/portal-expose) | Kubernetes controller that exposes pods to the Portal network |
+| [portal-flutter-sdk](https://github.com/gosuda/portal-flutter-sdk) | Flutter SDK for portal-tunnel |
+| [portal-ios-sdk](https://github.com/gosuda/portal-ios-sdk) | iOS (Swift) SDK for portal-tunnel |
+| [portal-multiplatform-sdk](https://github.com/gosuda/portal-multiplatform-sdk) | Kotlin Multiplatform SDK exposing app-local servers through Portal relays |
+| [portal-toys](https://github.com/gosuda/portal-toys) | Toy projects built on portal |
+| [portal-x402-sdk](https://github.com/gosuda/portal-x402-sdk) | TypeScript SDK wrapping x402 payment, ERC-8004 identity, and ENSIP-25 verification for portal relays |
+| [portalite](https://github.com/gosuda/portalite) | Lightweight portal client |
+| [potly](https://github.com/gosuda/potly) | Short links, QR codes, and file sharing for multi-agent, multi-machine workflows |
+| [IVNP](https://github.com/gosuda/IVNP) | InVisible Network Protocol: Go implementation of the I2P protocol and router |
+| [AutoIRC2P](https://github.com/gosuda/AutoIRC2P) | IRC2P chat with optional auto-translation and a built-in I2P router |
+| [BiBeam](https://github.com/gosuda/BiBeam) | Collaborative, distributed, end-to-end P2P VPN in Rust |
+| [jailscale](https://github.com/gosuda/jailscale) | Expose a local port over HTTPS: one wildcard hub, nodes that terminate TLS themselves |
+| [maek](https://github.com/gosuda/maek) | Expose private web services to anyone without port forwarding, in one command |
+| [ssh-chat](https://github.com/gosuda/ssh-chat) | Chat over SSH |
+| [zeroproxy](https://github.com/gosuda/zeroproxy) | Web-based, zero-knowledge, zero-installation proxy in Rust |
 
 ### Libraries
 
@@ -161,14 +169,6 @@ If you have any questions or concerns, feel free to reach out anytime.
 - **Admin:** [rabbitson87](https://github.com/rabbitson87)
 - **Admin:** [thumbgo](https://github.com/yoonhyunwoo)
 - **Admin:** [metaphoric-dev](https://github.com/metaphoric-dev)
-
-## Community
-
-- **Chat Room:**  [open.kakao.com/o/gd5mx3E](https://open.kakao.com/o/gd5mx3E)
-- **Community Guidelines:** [rules.gosuda.org](https://rules.gosuda.org/)
-- **Official Blog:** [gosuda.org](https://gosuda.org/)
-- **Reddit Community:** [r/gosuda](https://www.reddit.com/r/gosuda/)
-- **Discord:** [discord](https://discord.gg/SxSXVkp9JB)
 
 ---
 
