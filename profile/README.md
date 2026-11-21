@@ -2,7 +2,9 @@
 
 **An open community for people who love building things — sharing ideas, creating together, and having fun.**
 
-**Our Featured Projects:**
+---
+
+### Featured Projects
 - [bitcoin-rs](https://github.com/gosuda/bitcoin-rs): Independent bitcoin full node in Rust
 - [portal-tunnel](https://github.com/gosuda/portal-tunnel): Publish localhost services to the agentic web through self-hostable, trustless relays
 - [LoGOs](https://github.com/gosuda/LoGOs): The LoGOs programming language: Go, elegantly done right
@@ -13,7 +15,11 @@
 - [sloplint](https://github.com/gosuda/sloplint): Anti-slop (slop comes from both humans and agents) linter for complexity, searchable code, and agent editability across all major languages
 - [dstack-skills](https://github.com/gosuda/dstack-skills): Opinionated Agent skills for agentic engineering (never vibe coding)
 
+---
+
 [![gosuda](../assets/logo.png)](https://open.kakao.com/o/gd5mx3E)
+
+---
 
 ## Community
 
@@ -22,6 +28,8 @@
 - **Official Blog:** [gosuda.org](https://gosuda.org/)
 - **Reddit Community:** [r/gosuda](https://www.reddit.com/r/gosuda/)
 - **Discord:** [discord](https://discord.gg/SxSXVkp9JB)
+
+---
 
 ## Projects Index
 
@@ -158,6 +166,8 @@ The index below covers active public repositories. For everything else, see the 
 | [badge-api.gosuda.org](https://github.com/gosuda/badge-api.gosuda.org) | Small badges for whatever deserves a little attention |
 | [telemetry.gosuda.org](https://github.com/gosuda/telemetry.gosuda.org) | Blog telemetry service |
 | [.github](https://github.com/gosuda/.github) | This profile |
+
+---
 
 ## Administrators
 
