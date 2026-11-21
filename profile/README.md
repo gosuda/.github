@@ -1,7 +1,5 @@
 # Gosuda (고수다)
 
-[![gosuda](../assets/logo.png)](https://open.kakao.com/o/gd5mx3E)
-
 **An open community for people who love building things — sharing ideas, creating together, and having fun.**
 
 **Our Featured Projects:**
@@ -14,6 +12,8 @@
 - [IVNP](https://github.com/gosuda/IVNP): InVisible Network Protocol: Go implementation of the I2P protocol and router
 - [sloplint](https://github.com/gosuda/sloplint): Anti-slop (slop comes from both humans and agents) linter for complexity, searchable code, and agent editability across all major languages
 - [dstack-skills](https://github.com/gosuda/dstack-skills): Opinionated Agent skills for agentic engineering (never vibe coding)
+
+[![gosuda](../assets/logo.png)](https://open.kakao.com/o/gd5mx3E)
 
 ## Community
 
