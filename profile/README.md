@@ -21,7 +21,6 @@ The index below covers active public repositories. For everything else, see the 
 | [rukie](https://github.com/gosuda/rukie) | Self-hosted Git hosting, review, tasks, and CI for developers and coding agents, powered by ruk |
 | [cohotfs](https://github.com/gosuda/cohotfs) | Reproducible container workspaces that give a coding agent a room of its own |
 | [dalcom-reflector](https://github.com/gosuda/dalcom-reflector) | Meta-reflection layer for dstack; plugin for Codex, Claude Code, and oh-my-pi |
-| [dstack-reflector](https://github.com/gosuda/dstack-reflector) | Codex CLI meta-reflection layer for dalstack |
 | [dalzzack](https://github.com/gosuda/dalzzack) | Screenshot-first, token-efficient browser automation CLI for agents (macOS, Windows) |
 | [gyemoim](https://github.com/gosuda/gyemoim) | Local LLM gateway with centralized provider auth and request observability |
 | [Handeln](https://github.com/gosuda/Handeln) | AI agent toolbox |
@@ -56,9 +55,9 @@ The index below covers active public repositories. For everything else, see the 
 | Project | What it is |
 |---|---|
 | [bitcoin-rs](https://github.com/gosuda/bitcoin-rs) | Independent bitcoin full node in Rust |
-| [bitcoin-wallet](https://github.com/gosuda/bitcoin-wallet) | Bitcoin wallet for desktop, iOS, Android, and the browser on one Rust (BDK) core |
 | [bitcoin-rs-fuzz-corpus](https://github.com/gosuda/bitcoin-rs-fuzz-corpus) | Fuzzing corpora for bitcoin-rs |
 | [x402-facilitator](https://github.com/gosuda/x402-facilitator) | Go implementation of an x402 payment facilitator |
+| [bitcoin-wallet](https://github.com/gosuda/bitcoin-wallet) | Bitcoin wallet for desktop, iOS, Android, and the browser on one Rust (BDK) core |
 
 ### Languages, compilers, and runtimes
 
@@ -67,8 +66,8 @@ The index below covers active public repositories. For everything else, see the 
 | [LoGOs](https://github.com/gosuda/LoGOs) | The LoGOs programming language: Go, elegantly done right |
 | [spira](https://github.com/gosuda/spira) | The Spring web framework done right, in TypeScript |
 | [bamTiScript](https://github.com/gosuda/bamTiScript) | Clean-room TypeScript 7.0.2 compiler and JavaScript runtime in Rust, with JIT/AOT and Lean 4 models |
-| [Charamel](https://github.com/gosuda/Charamel) | The Charm terminal ecosystem re-derived in pure OCaml: sixteen libraries, ten tools |
 | [elegant-mermaid](https://github.com/gosuda/elegant-mermaid) | Render, check, and lint Mermaid diagrams without a browser; CLI plus Go, Rust, and Node libraries |
+| [Charamel](https://github.com/gosuda/Charamel) | The Charm terminal ecosystem re-derived in pure OCaml: sixteen libraries, ten tools |
 | [fasterapi](https://github.com/gosuda/fasterapi) | Drop-in faster replacement for FastAPI, in Rust |
 | [oxvim](https://github.com/gosuda/oxvim) | Neovim rewritten in Rust, preserving the Lua plugin ecosystem |
 
@@ -143,18 +142,6 @@ The index below covers active public repositories. For everything else, see the 
 | [telemetry.gosuda.org](https://github.com/gosuda/telemetry.gosuda.org) | Blog telemetry service |
 | [.github](https://github.com/gosuda/.github) | This profile |
 
-### Forks we maintain
-
-| Project | What it is |
-|---|---|
-| [Iris](https://github.com/gosuda/Iris) | Iris fork powering asko |
-| [bubbletea](https://github.com/gosuda/bubbletea) | TUI framework fork |
-| [codesearch](https://github.com/gosuda/codesearch) | Fast indexed regexp search over large file trees |
-| [gotreesitter](https://github.com/gosuda/gotreesitter) | Pure Go tree-sitter runtime |
-| [zoekt](https://github.com/gosuda/zoekt) | Fast trigram-based code search |
-
-Also public but lighter on detail: [gosuda.org](https://github.com/gosuda/gosuda.org), [portal_vibe_con](https://github.com/gosuda/portal_vibe_con).
-
 ## Administrators
 
 Our admins help keep the community welcoming, organized, and running smoothly.  
@@ -175,8 +162,6 @@ If you have any questions or concerns, feel free to reach out anytime.
 - **Reddit Community:** [r/gosuda](https://www.reddit.com/r/gosuda/)
 - **Discord:** [discord](https://discord.gg/SxSXVkp9JB)
 
-
 ---
-
 
 [![Built with Depot](https://depot.dev/badges/built-with-depot.svg)](https://depot.dev?utm_source=gosuda)
