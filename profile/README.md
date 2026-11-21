@@ -8,7 +8,7 @@
 - [bitcoin-rs](https://github.com/gosuda/bitcoin-rs): Independent bitcoin full node in Rust
 - [portal-tunnel](https://github.com/gosuda/portal-tunnel): Publish localhost services to the agentic web through self-hostable, trustless relays
 - [LoGOs](https://github.com/gosuda/LoGOs): The LoGOs programming language: Go, elegantly done right
-- [spira](https://github.com/gosuda/spira): The Spring web framework done right, in LoGOs
+- [spira](https://github.com/gosuda/spira): The Spring web framework done right, in LoGOs language
 - [gglint](https://github.com/gosuda/gglint): The Go linter, finally done right
 - [flats](https://github.com/gosuda/flats): Sites and artifacts hosting alternative
 - [IVNP](https://github.com/gosuda/IVNP): InVisible Network Protocol: Go implementation of the I2P protocol and router
