@@ -1,6 +1,6 @@
 # Gosuda (고수다)
 
-**An open community for people who love building things — sharing ideas, creating together, and having fun.**
+**An open community for people who love building things - sharing ideas, creating together, and having fun.**
 
 ---
 
